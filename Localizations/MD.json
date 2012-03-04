@@ -1,0 +1,42 @@
+{
+    "district":{
+        "Autonomous Territory":{
+            "MD-GA":"G\u0103g\u0103uzia",
+            "MD-SN":"St\u00eenga Nistrului"
+        },
+        "District":{
+            "MD-AN":"Anenii Noi",
+            "MD-BS":"Basarabeasca",
+            "MD-BR":"Briceni",
+            "MD-CA":"Cahul",
+            "MD-CT":"Cantemir",
+            "MD-CL":"C\u0103l\u0103ra\u015fi",
+            "MD-CS":"C\u0103u\u015feni",
+            "MD-CM":"Cimi\u015flia",
+            "MD-CR":"Criuleni",
+            "MD-DO":"Dondu\u015feni",
+            "MD-DR":"Drochia",
+            "MD-DU":"Dub\u0103sari",
+            "MD-ED":"Edine\u0163",
+            "MD-FA":"F\u0103le\u015fti",
+            "MD-FL":"Flore\u015fti",
+            "MD-GL":"Glodeni",
+            "MD-HI":"H\u00eence\u015fti",
+            "MD-IA":"Ialoveni",
+            "MD-LE":"Leova",
+            "MD-NI":"Nisporeni",
+            "MD-OC":"Ocni\u0163a",
+            "MD-OR":"Orhei",
+            "MD-RE":"Rezina",
+            "MD-RI":"R\u00ee\u015fcani",
+            "MD-SI":"S\u00eengerei",
+            "MD-SO":"Soroca",
+            "MD-ST":"Str\u0103\u015feni",
+            "MD-SD":"\u015eold\u0103ne\u015fti",
+            "MD-SV":"\u015etefan Vod\u0103",
+            "MD-TA":"Taraclia",
+            "MD-TE":"Telene\u015fti",
+            "MD-UN":"Ungheni"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "region":{
+        "SN-DK":"Dakar",
+        "SN-DB":"Diourbel",
+        "SN-FK":"Fatick",
+        "SN-KA":"Kaffrine",
+        "SN-KL":"Kaolack",
+        "SN-KE":"K\u00e9dougou",
+        "SN-KD":"Kolda",
+        "SN-LG":"Louga",
+        "SN-MT":"Matam",
+        "SN-SL":"Saint-Louis",
+        "SN-SE":"S\u00e9dhiou",
+        "SN-TC":"Tambacounda",
+        "SN-TH":"Thi\u00e8s",
+        "SN-ZG":"Ziguinchor"
+    }
+}

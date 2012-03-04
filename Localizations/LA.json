@@ -1,0 +1,28 @@
+{
+    "region":{
+        "Prefecture":{
+            "LA-VT":"Vientiane (\u0e99\u0eb0\u0e84\u0ead\u0e99\u0eab\u0ebc\u0ea7\u0e87\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99)"
+        },
+        "Province":{
+            "LA-AT":"Attapu (\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7)",
+            "LA-BK":"Bok\u00e8o (\u0e9a\u0ecd\u0ec8\u0ec1\u0e81\u0ec9\u0ea7)",
+            "LA-BL":"Bolikhamxai (\u0e9a\u0ecd\u0ea5\u0eb4\u0e84\u0ecd\u0eb2\u0ec4\u0e8a)",
+            "LA-CH":"Champasak (\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81)",
+            "LA-HO":"Houaphan (\u0ec1\u0e82\u0ea7\u0e87 \u0eab\u0ebb\u0ea7\u0e9e\u0eb1\u0e99)",
+            "LA-KH":"Khammouan (\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99)",
+            "LA-LM":"Louang Namtha (\u0eab\u0ea5\u0ea7\u0e87\u0e99\u0ecd\u0ec9\u0eb2\u0e97\u0eb2)",
+            "LA-LP":"Louangphabang (\u0eab\u0ea5\u0ea7\u0e87\u0e9e\u0eb0\u0e9a\u0eb2\u0e87)",
+            "LA-OU":"Oud\u00f4mxai (\u0ead\u0eb8\u0e94\u0ebb\u0ea1\u0ec4\u0e8a)",
+            "LA-PH":"Ph\u00f4ngsali (\u0e9c\u0ebb\u0ec9\u0e87\u0eaa\u0eb2\u0ea5\u0eb5)",
+            "LA-SL":"Salavan (\u0eaa\u0eb2\u0ea5\u0eb0\u0ea7\u0eb1\u0e99)",
+            "LA-SV":"Savannakh\u00e9t (\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94)",
+            "LA-VI":"Vientiane (\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99)",
+            "LA-XA":"Xaignabouli (\u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5)",
+            "LA-XE":"X\u00e9kong (\u0ec0\u0e8a\u0e81\u0ead\u0e87)",
+            "LA-XI":"Xiangkhoang (\u0e8a\u0ebd\u0e87\u0e82\u0ea7\u0eb2\u0e87)"
+        },
+        "Special Zone":{
+            "LA-XN":"Xais\u00f4mboun (\u0ec4\u0e8a\u0eaa\u0ebb\u0ea1\u0e9a\u0eb9\u0e99)"
+        }
+    }
+}

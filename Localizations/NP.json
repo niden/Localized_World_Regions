@@ -1,0 +1,18 @@
+{
+    "zone":{
+        "NP-BA":"Bagmati",
+        "NP-BH":"Bheri",
+        "NP-DH":"Dhawalagiri",
+        "NP-GA":"Gandaki",
+        "NP-JA":"Janakpur",
+        "NP-KA":"Karnali",
+        "NP-KO":"Kosi (Koshi)",
+        "NP-LU":"Lumbini",
+        "NP-MA":"Mahakali",
+        "NP-ME":"Mechi",
+        "NP-NA":"Narayani",
+        "NP-RA":"Rapti",
+        "NP-SA":"Sagarmatha",
+        "NP-SE":"Seti"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "province":{
+        "BE-VAN":"Antwerpen",
+        "BE-WBR":"Brabant wallon",
+        "BE-WHT":"Hainaut",
+        "BE-WLG":"Li\u00e8ge",
+        "BE-VLI":"Limburg",
+        "BE-WLX":"Luxembourg",
+        "BE-WNA":"Namur",
+        "BE-VOV":"Oost-Vlaanderen",
+        "BE-VBR":"Vlaams-Brabant",
+        "BE-VWV":"West-Vlaanderen"
+    }
+}

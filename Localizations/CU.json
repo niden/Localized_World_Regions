@@ -1,0 +1,19 @@
+{
+    "province":{
+        "CU-09":"Camag\u00fcey",
+        "CU-08":"Ciego de \u00c1vila",
+        "CU-06":"Cienfuegos",
+        "CU-03":"Ciudad de La Habana",
+        "CU-12":"Granma",
+        "CU-14":"Guant\u00e1namo",
+        "CU-11":"Holgu\u00edn",
+        "CU-02":"La Habana",
+        "CU-10":"Las Tunas",
+        "CU-04":"Matanzas",
+        "CU-01":"Pinar del R\u00edo",
+        "CU-07":"Sancti Sp\u00edritus",
+        "CU-13":"Santiago de Cuba",
+        "CU-05":"Villa Clara",
+        "CU-99":"Isla de la Juventud"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "state":{
+        "BR-AC":"Acre",
+        "BR-AL":"Alagoas",
+        "BR-AP":"Amap\u00e1",
+        "BR-AM":"Amazonas",
+        "BR-BA":"Bahia",
+        "BR-CE":"Cear\u00e1",
+        "BR-ES":"Esp\u00edrito Santo",
+        "BR-GO":"Goi\u00e1s",
+        "BR-MA":"Maranh\u00e3o",
+        "BR-MT":"Mato Grosso",
+        "BR-MS":"Mato Grosso do Sul",
+        "BR-MG":"Minas Gerais",
+        "BR-PA":"Par\u00e1",
+        "BR-PB":"Para\u00edba",
+        "BR-PR":"Paran\u00e1",
+        "BR-PE":"Pernambuco",
+        "BR-PI":"Piau\u00ed",
+        "BR-RJ":"Rio de Janeiro",
+        "BR-RN":"Rio Grande do Norte",
+        "BR-RS":"Rio Grande do Sul",
+        "BR-RO":"Rond\u00f4nia",
+        "BR-RR":"Roraima",
+        "BR-SC":"Santa Catarina",
+        "BR-SP":"S\u00e3o Paulo",
+        "BR-SE":"Sergipe",
+        "BR-TO":"Tocantins"
+    }
+}

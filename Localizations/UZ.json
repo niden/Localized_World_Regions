@@ -1,0 +1,21 @@
+{
+    "province":{
+        "Province":{
+            "UZ-AN":"Andijon (\u0410\u043d\u0434\u0438\u0436\u043e\u043d)",
+            "UZ-BU":"Buxoro (\u0411\u0443\u0445\u043e\u0440\u043e)",
+            "UZ-FA":"Farg\u2018ona (\u0424\u0435\u0440\u0433\u0430\u043d\u0441\u043a\u0438\u0439)",
+            "UZ-JI":"Jizzax (\u0416\u0438\u0437\u0437\u0430\u0445)",
+            "UZ-NG":"Namangan (\u041d\u0430\u043c\u0430\u043d\u0433\u0430\u043d\u0441\u043a\u0430\u044f)",
+            "UZ-NW":"Navoiy (\u041d\u0430\u0432\u043e\u0438\u0439)",
+            "UZ-QA":"Qashqadaryo (\u049a\u0430\u0448\u049b\u0430\u0434\u0430\u0440\u0451)",
+            "UZ-SA":"Samarqand",
+            "UZ-SI":"Sirdaryo (\u0421\u0438\u0440\u0434\u0430\u0440\u0451)",
+            "UZ-SU":"Surxondaryo (\u0421\u0443\u0440\u0445\u043e\u043d\u0434\u0430\u0440\u0451)",
+            "UZ-TO":"Toshkent (\u0422\u043e\u0448\u043a\u0435\u043d\u0442)",
+            "UZ-XO":"Xorazm (\u0425\u043e\u0440\u0430\u0437\u043c)"
+        },
+        "Autonomous Republic":{
+            "UZ-QR":"Qoraqalpog\u2018iston (\u049a\u0430\u0440\u0430\u049b\u0430\u043b\u043f\u0430\u049b\u0441\u0442\u0430\u043d)"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "region":{
+        "TD-BA":"Batha",
+        "TD-LC":"Lac",
+        "TD-BG":"Bahr el Gazel",
+        "TD-BO":"Borkou",
+        "TD-HL":"Hadjer Lamis",
+        "TD-EN":"Ennedi",
+        "TD-KA":"Kanem",
+        "TD-LO":"Logone-Occidental",
+        "TD-LR":"Logone-Oriental",
+        "TD-ND":"Ville de Ndjamena",
+        "TD-MA":"Mandoul",
+        "TD-MO":"Mayo-K\u00e9bbi-Ouest",
+        "TD-ME":"Mayo-K\u00e9bbi-Est",
+        "TD-GR":"Gu\u00e9ra",
+        "TD-SA":"Salamat",
+        "TD-MC":"Moyen-Chari",
+        "TD-CB":"Chari-Baguirmi",
+        "TD-SI":"Sila",
+        "TD-TA":"Tandjil\u00e9",
+        "TD-TI":"Tibesti",
+        "TD-OD":"Ouadda\u00ef",
+        "TD-WF":"Wadi Fira"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "region":{
+        "AM-AG":"Aragatsotn (\u0531\u0580\u0561\u0563\u0561\u056e\u0578\u057f\u0576)",
+        "AM-AR":"Ararat (\u0531\u0580\u0561\u0580\u0561\u057f)",
+        "AM-AV":"Armavir (\u0531\u0580\u0574\u0561\u057e\u056b\u0580)",
+        "AM-GR":"Gegharkunik (\u0533\u0565\u0572\u0561\u0580\u0584\u0578\u0582\u0576\u056b\u0584)",
+        "AM-KT":"Kotayk (\u053f\u0578\u057f\u0561\u0575\u0584)",
+        "AM-LO":"Lori (\u053c\u0578\u057c\u056b)",
+        "AM-SH":"Shirak (\u0547\u056b\u0580\u0561\u056f)",
+        "AM-SU":"Syunik (\u054d\u0575\u0578\u0582\u0576\u056b\u0584)",
+        "AM-TV":"Tavush (\u054f\u0561\u057e\u0578\u0582\u0577)",
+        "AM-VD":"Vayots Dzor (\u054e\u0561\u0575\u0578\u0581 \u0541\u0578\u0580)"
+    }
+}

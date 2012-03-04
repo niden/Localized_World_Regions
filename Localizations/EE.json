@@ -1,0 +1,19 @@
+{
+    "county":{
+        "EE-37":"Harjumaa",
+        "EE-39":"Hiiumaa",
+        "EE-44":"Ida-Virumaa",
+        "EE-49":"J\u00f5gevamaa",
+        "EE-51":"J\u00e4rvamaa",
+        "EE-57":"L\u00e4\u00e4nemaa",
+        "EE-59":"L\u00e4\u00e4ne-Virumaa",
+        "EE-65":"P\u00f5lvamaa",
+        "EE-67":"P\u00e4rnumaa",
+        "EE-70":"Raplamaa",
+        "EE-74":"Saaremaa",
+        "EE-78":"Tartumaa",
+        "EE-82":"Valgamaa",
+        "EE-84":"Viljandimaa",
+        "EE-86":"V\u00f5rumaa"
+    }
+}

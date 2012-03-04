@@ -1,0 +1,30 @@
+{
+    "department":{
+        "PE-CAL":"El Callao",
+        "PE-LMA":"Municipalidad Metropolitana de Lima",
+        "PE-AMA":"Amazonas",
+        "PE-ANC":"Ancash",
+        "PE-APU":"Apur\u00edmac",
+        "PE-ARE":"Arequipa",
+        "PE-AYA":"Ayacucho",
+        "PE-CAJ":"Cajamarca",
+        "PE-CUS":"Cusco (Cuzco)",
+        "PE-HUV":"Huancavelica",
+        "PE-HUC":"Hu\u00e1nuco",
+        "PE-ICA":"Ica",
+        "PE-JUN":"Jun\u00edn",
+        "PE-LAL":"La Libertad",
+        "PE-LAM":"Lambayeque",
+        "PE-LIM":"Lima",
+        "PE-LOR":"Loreto",
+        "PE-MDD":"Madre de Dios",
+        "PE-MOQ":"Moquegua",
+        "PE-PAS":"Pasco",
+        "PE-PIU":"Piura",
+        "PE-PUN":"Puno",
+        "PE-SAM":"San Mart\u00edn",
+        "PE-TAC":"Tacna",
+        "PE-TUM":"Tumbes",
+        "PE-UCA":"Ucayali"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "department":{
+        "HN-AT":"Atl\u00e1ntida",
+        "HN-CH":"Choluteca",
+        "HN-CL":"Col\u00f3n",
+        "HN-CM":"Comayagua",
+        "HN-CP":"Cop\u00e1n",
+        "HN-CR":"Cort\u00e9s",
+        "HN-EP":"El Para\u00edso",
+        "HN-FM":"Francisco Moraz\u00e1n",
+        "HN-GD":"Gracias a Dios",
+        "HN-IN":"Intibuc\u00e1",
+        "HN-IB":"Islas de la Bah\u00eda",
+        "HN-LP":"La Paz",
+        "HN-LE":"Lempira",
+        "HN-OC":"Ocotepeque",
+        "HN-OL":"Olancho",
+        "HN-SB":"Santa B\u00e1rbara",
+        "HN-VA":"Valle",
+        "HN-YO":"Yoro"
+    }
+}

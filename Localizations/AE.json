@@ -1,0 +1,11 @@
+{
+    "emirate":{
+        "AE-AZ":"Abu Dhabi (\u0623\u0628\u0648 \u0638\u0628\u064a)",
+        "AE-AJ":"Ajman (\u0639\u062c\u0645\u0627\u0646)",
+        "AE-DU":"Dubai (\u062f\u0628\u064a)",
+        "AE-FU":"Fujairah (\u0627\u0644\u0641\u062c\u064a\u0631\u0629)",
+        "AE-RK":"Ras al-Khaimah (\u0631\u0623\u0633 \u0627\u0644\u062e\u064a\u0645\u0629)",
+        "AE-SH":"Sharjah (\u0627\u0644\u0634\u0627\u0631\u0642\u0629)",
+        "AE-UQ":"Umm al-Quwain (\u0623\u0645 \u0627\u0644\u0642\u064a\u0648\u064a\u0646)"
+    }
+}

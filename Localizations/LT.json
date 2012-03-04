@@ -1,0 +1,14 @@
+{
+    "county":{
+        "LT-AL":"Alytaus",
+        "LT-KU":"Kauno",
+        "LT-KL":"Klaip\u0117dos",
+        "LT-MR":"Marijampol\u0117s",
+        "LT-PN":"Panev\u0117\u017eio",
+        "LT-SA":"\u0160iauli\u0173",
+        "LT-TA":"Taurag\u0117s",
+        "LT-TE":"Tel\u0161i\u0173",
+        "LT-UT":"Utenos",
+        "LT-VL":"Vilniaus"
+    }
+}

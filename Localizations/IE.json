@@ -1,0 +1,38 @@
+{
+    "county":{
+        "Connaught (Connacht)":{
+            "IE-G":"Galway (Gaillimh)",
+            "IE-LM":"Leitrim (Liatroim)",
+            "IE-MO":"Mayo (Maigh Eo)",
+            "IE-RN":"Roscommon (Ros Com\u00e1in)",
+            "IE-SO":"Sligo (Sligeach)"
+        },
+        "Leinster (Laighin)":{
+            "IE-CW":"Carlow (Ceatharlach)",
+            "IE-D":"Dublin (\u00c1th Cliath)",
+            "IE-KE":"Kildare (Cill Dara)",
+            "IE-KK":"Kilkenny (Cill Chainnigh)",
+            "IE-LS":"Laois (Laois)",
+            "IE-LH":"Longford (An Longfort)",
+            "IE-LD":"Louth (L\u00fa)",
+            "IE-OY":"Offaly (U\u00edbh Fhail\u00ed)",
+            "IE-MH":"Meath (An Mh\u00ed)",
+            "IE-WH":"Westmeath (An Iarmh\u00ed)",
+            "IE-WX":"Wexford (Loch Garman)",
+            "IE-WW":"Wicklow (Cill Mhant\u00e1in)"
+        },
+        "Munster (An Mhumhain)":{
+            "IE-CE":"Clare (An Cl\u00e1r)",
+            "IE-CO":"Cork (Corcaigh)",
+            "IE-Ky":"Kerry (Ciarra\u00ed)",
+            "IE-LK":"Limerick (Luimneach)",
+            "IE-TA":"Tipperary (Tiobraid \u00c1rann)",
+            "IE-WD":"Waterford (Port L\u00e1irge)"
+        },
+        "Ulster (Ulaidh)":{
+            "IE-CN":"Cavan (An Cabh\u00e1n)",
+            "IE-DL":"Donegal (D\u00fan na nGall)",
+            "IE-MN":"Monaghan (Muineach\u00e1n)"
+        }
+    }
+}

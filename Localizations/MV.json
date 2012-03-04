@@ -1,0 +1,11 @@
+{
+    "province":{
+        "MV-CE":"Central (Medhu)",
+        "MV-NO":"North (Uthuru)",
+        "MV-NC":"North Central (Medhu-Uthuru)",
+        "MV-SU":"South (Dhekunu)",
+        "MV-SC":"South Central (Medhu-Dhekunu)",
+        "MV-UN":"Upper North (Mathi-Uthuru)",
+        "MV-US":"Upper South (Mathi-Dhekunu)"
+    }
+}

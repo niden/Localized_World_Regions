@@ -1,0 +1,13 @@
+{
+    "province":{
+        "KP-02":"P\u2019y\u014fngan-namdo (\u5e73\u5b89\u5357\u9053)",
+        "KP-03":"P\u2019y\u014fngan-bukto (\u5e73\u5b89\u5317\u9053)",
+        "KP-04":"Chagang-do (\u6148\u6c5f\u9053)",
+        "KP-05":"Hwanghae-namdo (\u9ec3\u6d77\u5357\u9053)",
+        "KP-06":"Hwanghae-bukto (\u9ec3\u6d77\u5317\u9053)",
+        "KP-07":"Kangw\u014fn-do (\u6c5f\u539f\u9053)",
+        "KP-08":"Hamgy\u014fng-namdo (\u54b8\u93e1\u5357\u9053)",
+        "KP-09":"Hamgy\u014fng-bukto (\u54b8\u93e1\u5317\u9053)",
+        "KP-10":"Yanggang-do (\u5169\u6c5f\u9053)"
+    }
+}

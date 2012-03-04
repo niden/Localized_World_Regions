@@ -1,0 +1,19 @@
+{
+    "region":{
+        "CL-AI":"Ais\u00e9n del General Carlos Iba\u00f1ez del Campo",
+        "CL-AN":"Antofagasta",
+        "CL-AR":"Araucan\u00eda",
+        "CL-AP":"Arica y Parinacota",
+        "CL-AT":"Atacama",
+        "CL-BI":"B\u00edo-B\u00edo",
+        "CL-CO":"Coquimbo",
+        "CL-LI":"Libertador General Bernardo O'Higgins",
+        "CL-LL":"Los Lagos",
+        "CL-LR":"Los R\u00edos",
+        "CL-MA":"Magallanes",
+        "CL-ML":"Maule",
+        "CL-RM":"Regi\u00f3n Metropolitana de Santiago",
+        "CL-TA":"Tarapac\u00e1",
+        "CL-VS":"Valpara\u00edso"
+    }
+}

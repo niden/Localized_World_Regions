@@ -1,0 +1,17 @@
+{
+    "region":{
+        "NA-CA":"Caprivi",
+        "NA-ER":"Erongo",
+        "NA-HA":"Hardap",
+        "NA-KA":"Karas",
+        "NA-KH":"Khomas",
+        "NA-KU":"Kunene",
+        "NA-OW":"Ohangwena",
+        "NA-OK":"Okavango",
+        "NA-OH":"Omaheke",
+        "NA-OS":"Omusati",
+        "NA-ON":"Oshana",
+        "NA-OT":"Oshikoto",
+        "NA-OD":"Otjozondjupa"
+    }
+}

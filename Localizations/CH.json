@@ -1,0 +1,30 @@
+{
+    "canton":{
+        "CH-AG":"Aargau",
+        "CH-AR":"Appenzell Ausserrhoden",
+        "CH-AI":"Appenzell Innerrhoden",
+        "CH-BL":"Basel-Landschaft",
+        "CH-BS":"Basel-Stadt",
+        "CH-BE":"Bern",
+        "CH-FR":"Freiburg",
+        "CH-GE":"Gen\u00e8ve",
+        "CH-GL":"Glarus",
+        "CH-GR":"Graub\u00fcnden",
+        "CH-JU":"Jura",
+        "CH-LU":"Luzern",
+        "CH-NE":"Neuch\u00e2tel",
+        "CH-NW":"Nidwalden",
+        "CH-OW":"Obwalden",
+        "CH-SG":"Sankt Gallen",
+        "CH-SH":"Schaffhausen",
+        "CH-SZ":"Schwyz",
+        "CH-SO":"Solothurn",
+        "CH-TG":"Thurgau",
+        "CH-TI":"Ticino",
+        "CH-UR":"Uri",
+        "CH-VS":"Wallis",
+        "CH-VD":"Vaud",
+        "CH-ZG":"Zug",
+        "CH-ZH":"Z\u00fcrich"
+    }
+}

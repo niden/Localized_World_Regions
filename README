@@ -1,0 +1,53 @@
+The Localizations folder contains JSON encoded files with relevant regions. Regions 
+are defined as areas within the country i.e. counties, states, provinces, emirates etc.
+
+Each file is named after the ISO code of each country. 
+
+The contents of each file will contain:
+
+- Empty JSON file: if the country does not have any regions
+- JSON file with one region
+    -- elements are formatted ISO code => Region name
+- JSON file with one region and subregions
+    -- elements are formatted ISO code => Region name
+
+Examples:
+
+Empty:
+{
+}
+
+JSON file with one region
+{
+    "state":{
+        "AZ":"Arizona",
+        ...
+        "WV":"West Virginia"
+    }
+}
+
+- JSON file with one region and subregions
+{
+    "county":{
+        "England":{
+            "GB-BKM":"Buckinghamshire",
+			...
+            "GB-YOR":"York"
+        },
+        "Northern Ireland":{
+            "GB-ANT":"Antrim",
+			...
+            "GB-STB":"Strabane"
+        },
+        "Scotland":{
+            "GB-ABE":"Aberdeen City",
+			...
+            "GB-WLN":"West Lothian"
+        },
+        "Wales":{
+            "GB-BGW":"Blaenau Gwent",
+			...
+            "GB-WRX":"Wrexham (Wrecsam)"
+        }
+    }
+}

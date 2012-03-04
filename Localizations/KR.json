@@ -1,0 +1,13 @@
+{
+    "province":{
+        "KR-43":"Chungcheongbugdo (\u5fe0\u6e05\u5317\u9053)",
+        "KR-44":"Chungcheongnamdo (\u5fe0\u6e05\u5357\u9053)",
+        "KR-42":"Gang'weondo (\u6c5f\u539f\u9053)",
+        "KR-41":"Gyeonggido (\u4eac\u757f\u9053)",
+        "KR-47":"Gyeongsangbugdo (\u6176\u5c19\u5317\u9053)",
+        "KR-48":"Gyeongsangnamdo (\u6176\u5c19\u5357\u9053)",
+        "KR-49":"Jejudo (\u6fdf\u5dde\u7279\u5225\u81ea\u6cbb\u9053)",
+        "KR-45":"Jeonrabugdo (\u5168\u7f85\u5317\u9053)",
+        "KR-46":"Jeonranamdo (\u5168\u7f85\u5357\u9053)"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "province":{
+        "KG-B":"Batken (\u0411\u0430\u0442\u043a\u0435\u043d)",
+        "KG-C":"Chuy (\u0427\u04af\u0439)",
+        "KG-J":"Jalal-Abad (\u0416\u0430\u043b\u0430\u043b\u0430\u0431\u0430\u0442)",
+        "KG-N":"Naryn (\u041d\u0430\u0440\u044b\u043d)",
+        "KG-O":"Osh (\u041e\u0448)",
+        "KG-T":"Talas (\u0422\u0430\u043b\u0430\u0441)",
+        "KG-Y":"Issyk Kul (\u042b\u0441\u044b\u043a-\u041a\u04e9\u043b)"
+    }
+}

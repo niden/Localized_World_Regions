@@ -1,0 +1,26 @@
+{
+    "populate":{
+        "LY-BU":"Al Butnan (\u0627\u0644\u0628\u0637\u0646\u0627\u0646\u200e)",
+        "LY-JA":"Al Jabal al Akhdar (\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u062e\u0636\u0631\u200e)",
+        "LY-JG":"Al Jabal al Gharbi (\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u063a\u0631\u0628\u064a\u200e)",
+        "LY-JI":"Al Jafara (\u0627\u0644\u062c\u0641\u0627\u0631\u0629\u200e)",
+        "LY-JU":"Al Jufrah (\u0627\u0644\u062c\u0641\u0631\u0629\u200e)",
+        "LY-KF":"Al Kufrah (\u0627\u0644\u0643\u0641\u0631\u0629\u200e)",
+        "LY-MJ":"Al Marj (\u0627\u0644\u0645\u0631\u062c\u200e)",
+        "LY-MB":"Al Marqab (\u0627\u0644\u0645\u0631\u0642\u0628\u200e)",
+        "LY-WA":"Al Wahat (\u0627\u0644\u0648\u0627\u062d\u0627\u062a\u200e)",
+        "LY-NQ":"Nuqat al Khams (\u0627\u0644\u0646\u0642\u0627\u0637 \u0627\u0644\u062e\u0645\u0633\u200e)",
+        "LY-ZA":"Zawiya (\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0632\u0627\u0648\u064a\u0629\u200e)",
+        "LY-BA":"Benghazi (\u0628\u0646\u063a\u0627\u0632\u064a\u200e)",
+        "LY-DR":"Derna (\u062f\u0631\u0646\u0629\u200e)",
+        "LY-GT":"Ghat (\u063a\u0627\u062a\u200e\u200e)",
+        "LY-MI":"Misrata (\u0645\u0635\u0631\u0627\u062a\u0647\u200e)",
+        "LY-MQ":"Murzuq (\u0645\u0631\u0632\u0642\u200e)",
+        "LY-NL":"Nalut (\u0646\u0627\u0644\u0648\u062a\u200e)",
+        "LY-SB":"Sabha (\u0633\u0628\u0647\u0627\u200e)",
+        "LY-SR":"Sirte (\u0633\u0631\u062a\u200e)",
+        "LY-TB":"Tripoli (\u0634\u0639\u0628\u064a\u0629 \u0637\u0631\u0627\u0628\u0644\u0633\u200e)",
+        "LY-WD":"Wadi al Hayaa (\u200f\u0648\u0627\u062f\u064a \u0627\u0644\u062d\u064a\u0627\u0629\u200e\u200e)",
+        "LY-WS":"Wadi al Shatii (\u0648\u0627\u062f\u064a \u0627\u0644\u0634\u0627\u0637\u0626\u200e)"
+    }
+}

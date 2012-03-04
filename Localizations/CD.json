@@ -1,0 +1,14 @@
+{
+    "prefecture":{
+        "CD-BN":"Bandundu",
+        "CD-BC":"Bas-Congo",
+        "CD-EQ":"\u00c9quateur",
+        "CD-KW":"Kasai-Occidental",
+        "CD-KE":"Kasai-Oriental",
+        "CD-KA":"Katanga",
+        "CD-MA":"Maniema",
+        "CD-NK":"Nord-Kivu",
+        "CD-OR":"Orientale",
+        "CD-SK":"Sud-Kivu"
+    }
+}

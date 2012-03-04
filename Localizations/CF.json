@@ -1,0 +1,20 @@
+{
+    "prefecture":{
+        "CF-BB":"Bamingui-Bangoran (Bam\u00efng\u00ef-Bangoran)",
+        "CF-BK":"Basse-Kotto (Do-K\u00f6t\u00f6)",
+        "CF-HK":"Haute-Kotto (T\u00f6-K\u00f6t\u00f6)",
+        "CF-HM":"Haut-Mbomou (T\u00f6-Mb\u00f6m\u00fc)",
+        "CF-HS":"Haute-Sangha - Mamb\u00e9r\u00e9-Kad\u00e9\u00ef (T\u00f6-Sang\u00e4 - Mbaere-Kade\u00ef)",
+        "CF-KG":"K\u00e9mo-Gribingui (Kem\u00f6-G\u00efr\u00efb\u00efng\u00ef)",
+        "CF-LB":"Lobaye (Lob\u00e2ye)",
+        "CF-MB":"Mbomou (Mb\u00f6m\u00fc)",
+        "CF-NM":"Nana-Mamb\u00e9r\u00e9 (Nan\u00e4-Mbaere)",
+        "CF-MP":"Ombella-Mpoko (\u00d6mb\u00ebl\u00e4-P\u00f6k\u00f6)",
+        "CF-UK":"Ouaka (W\u00e4k\u00e4)",
+        "CF-AC":"Ouham (W\u00e2mo)",
+        "CF-OP":"Ouham-Pend\u00e9 (W\u00e2mo-Pend\u00eb)",
+        "CF-VK":"Vakaga (Vakaga)",
+        "CF-KB":"Gribingui (G\u00efr\u00efb\u00efng\u00ef)",
+        "CF-SE":"Sangha (Sang\u00e4)"
+    }
+}

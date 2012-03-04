@@ -1,0 +1,25 @@
+{
+    "governorate":{
+        "YE-SA":"\u015ean\u2018\u0101'",
+        "YE-AB":"Aby\u0101n",
+        "YE-AD":"'Adan",
+        "YE-DA":"A\u1e11 \u1e10\u0101li'",
+        "YE-BA":"Al Bay\u1e11\u0101'",
+        "YE-HU":"Al \u1e28udaydah",
+        "YE-JA":"Al Jawf",
+        "YE-MR":"Al Mahrah",
+        "YE-MW":"Al Ma\u1e29w\u012bt",
+        "YE-AM":"'Amr\u0101n",
+        "YE-DH":"Dham\u0101r",
+        "YE-HD":"\u1e28a\u1e11ramawt",
+        "YE-HJ":"\u1e28ajjah",
+        "YE-IB":"Ibb",
+        "YE-LA":"La\u1e29ij",
+        "YE-MA":"Ma'rib",
+        "YE-RA":"Raymah",
+        "YE-SD":"\u015e\u0101\u2018dah",
+        "YE-SN":"\u015ean\u2018\u0101'",
+        "YE-SH":"Shabwah",
+        "YE-TA":"T\u0101\u2018izz"
+    }
+}

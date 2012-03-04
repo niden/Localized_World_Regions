@@ -1,0 +1,28 @@
+{
+    "province":{
+        "EC-A":"Azuay",
+        "EC-B":"Bol\u00edvar",
+        "EC-F":"Ca\u00f1ar",
+        "EC-C":"Carchi",
+        "EC-H":"Chimborazo",
+        "EC-X":"Cotopaxi",
+        "EC-O":"El Oro",
+        "EC-E":"Esmeraldas",
+        "EC-W":"Gal\u00e1pagos",
+        "EC-G":"Guayas",
+        "EC-I":"Imbabura",
+        "EC-L":"Loja",
+        "EC-R":"Los R\u00edos",
+        "EC-M":"Manab\u00ed",
+        "EC-S":"Morona-Santiago",
+        "EC-N":"Napo",
+        "EC-D":"Orellana",
+        "EC-Y":"Pastaza",
+        "EC-P":"Pichincha",
+        "EC-SE":"Santa Elena",
+        "EC-SD":"Santo Domingo de los Ts\u00e1chilas",
+        "EC-U":"Sucumb\u00edos",
+        "EC-T":"Tungurahua",
+        "EC-Z":"Zamora-Chinchipe"
+    }
+}

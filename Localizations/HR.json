@@ -1,0 +1,24 @@
+{
+    "county":{
+        "HR-07":"Bjelovarsko-bilogorska",
+        "HR-12":"Brodsko-posavska",
+        "HR-19":"Dubrova\u010dko-neretvanska",
+        "HR-18":"Istarska",
+        "HR-04":"Karlova\u010dka",
+        "HR-06":"Koprivni\u010dko-kri\u017eeva\u010dka",
+        "HR-02":"Krapinsko-zagorska",
+        "HR-09":"Li\u010dko-senjska",
+        "HR-20":"Me\u0111imurska",
+        "HR-14":"Osje\u010dko-baranjska",
+        "HR-11":"Po\u017ee\u0161ko-slavonska",
+        "HR-08":"Primorsko-goranska",
+        "HR-03":"Sisa\u010dko-moslava\u010dka",
+        "HR-17":"Splitsko-dalmatinska",
+        "HR-15":"\u0160ibensko-kninska",
+        "HR-05":"Vara\u017edinska",
+        "HR-10":"Viroviti\u010dko-podravska",
+        "HR-16":"Vukovarsko-srijemska",
+        "HR-13":"Zadarska",
+        "HR-01":"Zagreba\u010dka"
+    }
+}

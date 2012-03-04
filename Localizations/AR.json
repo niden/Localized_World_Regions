@@ -1,0 +1,27 @@
+{
+    "province":{
+        "AR-B":"Buenos Aires",
+        "AR-K":"Catamarca",
+        "AR-H":"Chaco",
+        "AR-U":"Chubut",
+        "AR-X":"C\u00f3rdoba",
+        "AR-W":"Corrientes",
+        "AR-E":"Entre R\u00edos",
+        "AR-P":"Formosa",
+        "AR-Y":"Jujuy",
+        "AR-L":"La Pampa",
+        "AR-F":"La Rioja",
+        "AR-M":"Mendoza",
+        "AR-N":"Misiones",
+        "AR-Q":"Neuqu\u00e9n",
+        "AR-R":"R\u00edo Negro",
+        "AR-A":"Salta",
+        "AR-J":"San Juan",
+        "AR-D":"San Luis",
+        "AR-Z":"Santa Cruz",
+        "AR-S":"Santa Fe",
+        "AR-G":"Santiago del Estero",
+        "AR-V":"Tierra del Fuego",
+        "AR-T":"Tucum\u00e1n"
+    }
+}

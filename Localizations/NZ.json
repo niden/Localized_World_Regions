@@ -1,0 +1,27 @@
+{
+    "council":{
+        "Unitary Authority":{
+            "NZ-AUK":"Auckland",
+            "NZ-GIS":"Gisborne District",
+            "NZ-MBH":"Marlborough District",
+            "NZ-NSN":"Nelson City",
+            "NZ-TAS":"Tasman District"
+        },
+        "Regional Council":{
+            "NZ-BOP":"Bay of Plenty",
+            "NZ-CAN":"Canterbury",
+            "NZ-HKB":"Hawke's Bay",
+            "NZ-MWT":"Manawatu-Wanganui",
+            "NZ-NTL":"Northland",
+            "NZ-OTA":"Otago",
+            "NZ-STL":"Southland",
+            "NZ-TKI":"Taranaki",
+            "NZ-WKO":"Waikato",
+            "NZ-WGN":"Wellington",
+            "NZ-WTC":"West Coast"
+        },
+        "Special Island Authority":{
+            "NZ-CIT":"Chatham Islands Territory"
+        }
+    }
+}

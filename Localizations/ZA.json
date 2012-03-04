@@ -1,0 +1,13 @@
+{
+    "province":{
+        "ZA-EC":"Eastern Cape",
+        "ZA-FS":"Free State",
+        "ZA-GP":"Gauteng",
+        "ZA-ZN":"KwaZulu-Natal",
+        "ZA-LP":"Limpopo",
+        "ZA-MP":"Mpumalanga",
+        "ZA-NW":"North West",
+        "ZA-NC":"Northern Cape",
+        "ZA-WC":"Western Cape"
+    }
+}

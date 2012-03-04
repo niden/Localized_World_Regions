@@ -1,0 +1,13 @@
+{
+    "department":{
+        "BO-C":"Cochabamba",
+        "BO-H":"Chuquisaca",
+        "BO-B":"El Beni",
+        "BO-L":"La Paz",
+        "BO-O":"Oruro",
+        "BO-N":"Pando",
+        "BO-P":"Potos\u00ed",
+        "BO-S":"Santa Cruz",
+        "BO-T":"Tarija"
+    }
+}

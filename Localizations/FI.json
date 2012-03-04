@@ -1,0 +1,23 @@
+{
+    "region":{
+        "FI-01":"Ahvenanmaan maakunta",
+        "FI-02":"Etel\u00e4-Karjala",
+        "FI-03":"Etel\u00e4-Pohjanmaa",
+        "FI-04":"Etel\u00e4-Savo",
+        "FI-05":"Kainuu",
+        "FI-06":"Kanta-H\u00e4me",
+        "FI-07":"Keski-Pohjanmaa",
+        "FI-08":"Keski-Suomi",
+        "FI-09":"Kymenlaakso",
+        "FI-10":"Lappi",
+        "FI-11":"Pirkanmaa",
+        "FI-12":"Pohjanmaa",
+        "FI-13":"Pohjois-Karjala",
+        "FI-14":"Pohjois-Pohjanmaa",
+        "FI-15":"Pohjois-Savo",
+        "FI-16":"P\u00e4ij\u00e4t-H\u00e4me",
+        "FI-17":"Satakunta",
+        "FI-18":"Uusimaa",
+        "FI-19":"Varsinais-Suomi"
+    }
+}

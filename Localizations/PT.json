@@ -1,0 +1,28 @@
+{
+    "district":{
+        "District":{
+            "PT-01":"Aveiro",
+            "PT-02":"Beja",
+            "PT-03":"Braga",
+            "PT-04":"Bragan\u00e7a",
+            "PT-05":"Castelo Branco",
+            "PT-06":"Coimbra",
+            "PT-07":"\u00c9vora",
+            "PT-08":"Faro",
+            "PT-09":"Guarda",
+            "PT-10":"Leiria",
+            "PT-11":"Lisboa",
+            "PT-12":"Portalegre",
+            "PT-13":"Porto",
+            "PT-14":"Santar\u00e9m",
+            "PT-15":"Set\u00fabal",
+            "PT-16":"Viana do Castelo",
+            "PT-17":"Vila Real",
+            "PT-18":"Viseu"
+        },
+        "Autonomous Region":{
+            "PT-20":"Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+            "PT-30":"Regi\u00e3o Aut\u00f3noma da Madeira"
+        }
+    }
+}

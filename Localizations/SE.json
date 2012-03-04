@@ -1,0 +1,25 @@
+{
+    "county":{
+        "SE-K":"Blekinge l\u00e4n",
+        "SE-W":"Dalarnas l\u00e4n",
+        "SE-I":"Gotlands l\u00e4n",
+        "SE-X":"G\u00e4vleborgs l\u00e4n",
+        "SE-N":"Hallands l\u00e4n",
+        "SE-Z":"J\u00e4mtlands l\u00e4n",
+        "SE-F":"J\u00f6nk\u00f6pings l\u00e4n",
+        "SE-H":"Kalmar l\u00e4n",
+        "SE-G":"Kronobergs l\u00e4n",
+        "SE-BD":"Norrbottens l\u00e4n",
+        "SE-M":"Sk\u00e5ne l\u00e4n",
+        "SE-AB":"Stockholms l\u00e4n",
+        "SE-D":"S\u00f6dermanlands l\u00e4n",
+        "SE-C":"Uppsala l\u00e4n",
+        "SE-S":"V\u00e4rmlands l\u00e4n",
+        "SE-AC":"V\u00e4sterbottens l\u00e4n",
+        "SE-Y":"V\u00e4sternorrlands l\u00e4n",
+        "SE-U":"V\u00e4stmanlands l\u00e4n",
+        "SE-O":"V\u00e4stra G\u00f6talands l\u00e4n",
+        "SE-T":"\u00d6rebro l\u00e4n",
+        "SE-E":"\u00d6sterg\u00f6tlands l\u00e4n"
+    }
+}

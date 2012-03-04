@@ -1,0 +1,18 @@
+{
+    "department":{
+        "SV-AH":"Ahuachap\u00e1n",
+        "SV-CA":"Caba\u00f1as",
+        "SV-CU":"Cuscatl\u00e1n",
+        "SV-CH":"Chalatenango",
+        "SV-LI":"La Libertad",
+        "SV-PA":"La Paz",
+        "SV-UN":"La Uni\u00f3n",
+        "SV-MO":"Moraz\u00e1n",
+        "SV-SM":"San Miguel",
+        "SV-SS":"San Salvador",
+        "SV-SA":"Santa Ana",
+        "SV-SV":"San Vicente",
+        "SV-SO":"Sonsonate",
+        "SV-US":"Usulut\u00e1n"
+    }
+}

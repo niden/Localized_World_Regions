@@ -1,0 +1,20 @@
+{
+    "province":{
+        "PL-DS":"Dolno\u015bl\u0105skie",
+        "PL-KP":"Kujawsko-pomorskie",
+        "PL-LU":"Lubelskie",
+        "PL-LB":"Lubuskie",
+        "PL-LD":"\u0141\u00f3dzkie",
+        "PL-MA":"Ma\u0142opolskie",
+        "PL-MZ":"Mazowieckie",
+        "PL-OP":"Opolskie",
+        "PL-PK":"Podkarpackie",
+        "PL-PD":"Podlaskie",
+        "PL-PM":"Pomorskie",
+        "PL-SL":"\u015al\u0105skie",
+        "PL-SK":"\u015awi\u0119tokrzyskie",
+        "PL-WN":"Warmi\u0144sko-mazurskie",
+        "PL-WP":"Wielkopolskie",
+        "PL-ZP":"Zachodniopomorskie"
+    }
+}

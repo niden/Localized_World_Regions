@@ -1,0 +1,22 @@
+{
+    "province":{
+        "AO-BGO":"Bengo",
+        "AO-BGU":"Benguela",
+        "AO-BIE":"Bi\u00e9",
+        "AO-CAB":"Cabinda",
+        "AO-CCU":"Cuando-Cubango",
+        "AO-CNO":"Cuanza Norte",
+        "AO-CUS":"Cuanza Sul",
+        "AO-CNN":"Cunene",
+        "AO-HUA":"Huambo",
+        "AO-HUI":"Hu\u00edla",
+        "AO-LUA":"Luanda",
+        "AO-LNO":"Lunda Norte",
+        "AO-LSU":"Lunda Sul",
+        "AO-MAL":"Malange",
+        "AO-MOX":"Moxico",
+        "AO-NAM":"Namibe",
+        "AO-UIG":"U\u00edge",
+        "AO-ZAI":"Zaire"
+    }
+}

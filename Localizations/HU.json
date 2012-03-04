@@ -1,0 +1,23 @@
+{
+    "county":{
+        "HU-BK":"B\u00e1cs-Kiskun",
+        "HU-BA":"Baranya",
+        "HU-BE":"B\u00e9k\u00e9s",
+        "HU-BZ":"Borsod-Aba\u00faj-Zempl\u00e9n",
+        "HU-CS":"Csongr\u00e1d",
+        "HU-FE":"Fej\u00e9r",
+        "HU-GS":"Gy\u0151r-Moson-Sopron",
+        "HU-HB":"Hajd\u00fa-Bihar",
+        "HU-HE":"Heves",
+        "HU-JN":"J\u00e1sz-Nagykun-Szolnok",
+        "HU-KE":"Kom\u00e1rom-Esztergom",
+        "HU-NO":"N\u00f3gr\u00e1d",
+        "HU-PE":"Pest",
+        "HU-SO":"Somogy",
+        "HU-SZ":"Szabolcs-Szatm\u00e1r-Bereg",
+        "HU-TO":"Tolna",
+        "HU-VA":"Vas",
+        "HU-VE":"Veszpr\u00e9m",
+        "HU-ZA":"Zala"
+    }
+}

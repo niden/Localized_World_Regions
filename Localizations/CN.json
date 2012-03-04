@@ -1,0 +1,46 @@
+{
+    "province":{
+        "Municipality":{
+            "CN-11":"Beijing (\u5317\u4eac\u5e02)",
+            "CN-50":"Chongqing (\u91cd\u5e86\u5e02)",
+            "CN-31":"Shanghai (\u4e0a\u6d77\u5e02)",
+            "CN-12":"Tianjin (\u5929\u6d25\u5e02)"
+        },
+        "Province":{
+            "CN-34":"Anhui (\u5b89\u5fbd\u7701)",
+            "CN-35":"Fujian (\u798f\u5efa\u7701)",
+            "CN-62":"Gansu (\u7518\u8083\u7701)",
+            "CN-44":"Guangdong (\u5e7f\u4e1c\u7701)",
+            "CN-52":"Guizhou (\u8d35\u5dde\u7701)",
+            "CN-46":"Hainan (\u6d77\u5357\u7701)",
+            "CN-13":"Hebei (\u6cb3\u5317\u7701)",
+            "CN-23":"Heilongjiang (\u9ed1\u9f99\u6c5f\u7701)",
+            "CN-41":"Henan (\u6cb3\u5357\u7701)",
+            "CN-42":"Hubei (\u6e56\u5317\u7701)",
+            "CN-43":"Hunan (\u6e56\u5357\u7701)",
+            "CN-32":"Jiangsu (\u6c5f\u82cf\u7701)",
+            "CN-36":"Jiangxi (\u6c5f\u897f\u7701)",
+            "CN-22":"Jilin (\u5409\u6797\u7701)",
+            "CN-21":"Liaoning (\u8fbd\u5b81\u7701)",
+            "CN-63":"Qinghai (\u9752\u6d77\u7701)",
+            "CN-61":"Shaanxi (\u9655\u897f\u7701)",
+            "CN-37":"Shandong (\u5c71\u4e1c\u7701)",
+            "CN-14":"Shanxi (\u5c71\u897f\u7701)",
+            "CN-51":"Sichuan (\u56db\u5ddd\u7701)",
+            "CN-71":"Taiwan (\u53f0\u6e7e\u7701)",
+            "CN-53":"Yunnan (\u4e91\u5357\u7701)",
+            "CN-33":"Zhejiang (\u6d59\u6c5f\u7701)"
+        },
+        "Autonomous Region":{
+            "CN-15":"Inner Mongolia (Nei Mongol) (\u5167\u8499\u53e4\u81ea\u6cbb\u533a)",
+            "CN-45":"Guangxi (\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a)",
+            "CN-64":"Ningxia (\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a)",
+            "CN-54":"Tibet (Xizang) (\u897f\u85cf\u81ea\u6cbb\u533a)",
+            "CN-65":"Xinjiang (\u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a)"
+        },
+        "Special Administrative Region":{
+            "CN-92":"Macau (Aomen) (\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a)",
+            "CN-91":"Hong Kong (Xianggang) (\u9999\u6e2f\u7279\u522b\u884c\u653f\u533a)"
+        }
+    }
+}
